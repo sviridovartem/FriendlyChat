@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "swiridov-friendlychat",
+    "friendlychat": "swiridov-friendlychat",
+    "chat": "swiridov-friendlychat"
+  }
+}
